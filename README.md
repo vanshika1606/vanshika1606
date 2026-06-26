@@ -1,10 +1,8 @@
 # Hi, I'm Vanshika Jain 👋
-
 🎓 **B.Tech in Electronics & Communication Engineering**  
 📍 **Jaypee Institute of Information Technology, Noida**
 
 ## 👩‍💻 About Me
-
 - Interested in building practical software projects.
 - Continuously learning and improving through hands-on development.
 - Looking forward to participating in hackathons and collaborating on innovative projects.
@@ -13,91 +11,39 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" title="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" title="C++">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" title="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" title="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" title="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank" title="Arduino">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-<img src="https://cdn.simpleicons.org/pandas" height="45"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank" title="NumPy">
-<img src="https://cdn.simpleicons.org/numpy" height="45"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/vanshika-jain-382137365/" target="_blank" title="LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-jain-382137365/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshika1606)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikajain2028@gmail.com)
 
-<a href="https://github.com/vanshika1606" target="_blank" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-</a>
-
-<a href="mailto:vanshikajain2028@gmail.com" target="_blank" title="Email">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
-</a>
-
-</p>
-
+</div>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshika1606&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika1606&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
