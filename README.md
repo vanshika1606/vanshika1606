@@ -3,9 +3,15 @@
 📍 **Jaypee Institute of Information Technology, Noida**
 
 ## 👩‍💻 About Me
-- Interested in building practical software projects.
-- Continuously learning and improving through hands-on development.
-- Looking forward to participating in hackathons and collaborating on innovative projects.
+- Interested in Software Development and problem-solving.
+
+- Practicing Data Structures & Algorithms in C++.
+
+- Exploring Web Development and Machine Learning.
+
+- Building projects and learning through hands-on experience.
+
+-Open to collaborating on projects and hackathons.
 
 ---
 
