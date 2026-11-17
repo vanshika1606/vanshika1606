@@ -11,7 +11,7 @@
 
 - Building projects and learning through hands-on experience.
 
--Open to collaborating on projects and hackathons.
+- Open to collaborating on projects and hackathons.
 
 ---
 
